@@ -350,6 +350,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4311373684108504154}
+  - component: {fileID: 7281450162300011001}
   m_Layer: 0
   m_Name: CanonJugador
   m_TagString: Untagged
@@ -357,6 +358,18 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &7281450162300011001
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1859241252642680618}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c00f92676eb4119ae3f0e18e0bf7f3d, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
 --- !u!4 &4311373684108504154
 Transform:
   m_ObjectHideFlags: 0
@@ -513,14 +526,14 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4460710462884127963}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0.28811938, w: 0.9575946}
   m_LocalPosition: {x: -0.56159997, y: -0.67323, z: 0.20209002}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2975765250451344307}
   m_Father: {fileID: 4311373684108504154}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -33.491}
 --- !u!1 &6526183653146120472
 GameObject:
   m_ObjectHideFlags: 0
