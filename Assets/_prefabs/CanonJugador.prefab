@@ -370,6 +370,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8c00f92676eb4119ae3f0e18e0bf7f3d, type: 3}
   m_Name:
   m_EditorClassIdentifier:
+  pivoteCanon: {fileID: 5276346209307497451}
+  fuerzaDisparo: 18
+  radioBala: 0.22
+  efectoExplosion: {fileID: 100100000, guid: 64891a0eb28db934898420d80ca07cb3, type: 3}
+  camara: {fileID: 0}
+  efectoDisparo: {fileID: 100100000, guid: ad2ab49d0a2a17148bd51c93d977bdbc, type: 3}
+  puntoDisparo: {fileID: 0}
+  sonidoDisparo: {fileID: 8300000, guid: 69c1e7a3f74b44a4b35db84c7d61a101, type: 3}
+  sonidoImpacto: {fileID: 8300000, guid: a10b5c7308aa4a488e88b53c51dc9b9a, type: 3}
 --- !u!4 &4311373684108504154
 Transform:
   m_ObjectHideFlags: 0
